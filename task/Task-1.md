@@ -41,4 +41,4 @@ Github
 1. 新增一個 `Task-1.md`，內容在前面「Markdown」章節有定義
 	* 注意：重點是 markdown 語法練習，內容不是很重要
 	* 雖然內容不重要，但是也不要把範例 code 複製貼上就交差 ＝＝"
-1. 發 pull request 給 `MontyPan/FlowTraining` 的 `master`
+1. 發 pull request 給 `shvoidlee/FlowTraining` 的 `master`
